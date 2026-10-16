@@ -3,7 +3,7 @@ using namespace std;
 
 int main() {
     int n;
-    cout << "Enter a number: ";
+    cout << "How many numbers of row you want ?: ";
     cin >> n;
     int num=1;
     for(int i = 0; i < n; i++) {
